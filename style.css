@@ -1143,4 +1143,17 @@ header {
         margin-top: 20px;
         transition: all .5s ease;
     }
+
+    .footer-searchcontainer {
+        display: flex;
+        flex-direction: column;
+        transition: all .5s ease;
+        background-color: #fff;
+    }
+
+    .footer-searchcontainer button {
+        width: 50%;
+        margin-top: 10px;
+        transition: all .5s ease;
+    }
 }
